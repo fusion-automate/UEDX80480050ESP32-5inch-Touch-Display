@@ -52,7 +52,7 @@
 * Driver chip: ST7262E43-G4
 * Compatibility library:  ESP32_Display_Panel
 * Bus communication protocol: RGB
-* For more details：[Display Datasheet](information/ALL-UE070WV-RB40-A092A.pdf)
+* For more details：[Display Datasheet](information/UE050WV-RB40-L070A.pdf)
   
 Note: The model name is determined by the screen resolution and size
 
@@ -190,9 +190,9 @@ Note: The model name is determined by the screen resolution and size
 </p>
 
 ## Information
-[products specification](information/UEDX80480070E-WB-A%20V2.0%20SPEC.pdf)
+[products specification](information/UEDX80480050E-WB-A%20V3.3%20SPEC.pdf)
 
-[Display Datasheet](information/ALL-UE070WV-RB40-A092A.pdf)
+[Display Datasheet](information/UE050WV-RB40-L070A.pdf)
 
 [Touch IC Datasheet_EN](information/GT911_EN_Datasheet.pdf)
 
