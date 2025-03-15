@@ -1,7 +1,7 @@
 <h1 align = "center">VIEWE ESP32-S3智能显示屏快速指南</h1>
 
 <div align="center">
-    <img src="image/7inch.jpg" alt="7英寸显示屏">
+    <img src="image/5inch.jpg" alt="5英寸显示屏">
     <h1 style="font-size: 18px;">型号: UEDX80480070E-WB-A</h1>
 </div>
 
@@ -53,7 +53,7 @@
 - 驱动芯片: EK9716BD3+EK73002AB2
 - 兼容库: ESP32_Display_Panel
 - 总线协议: RGB
-- 详细资料：[屏幕数据手册](information/ALL-UE070WV-RB40-A092A.pdf)
+- 详细资料：[屏幕数据手册](information/UE050WV-RB40-L070A.pdf)
 
 注：型号由屏幕尺寸和分辨率决定
 
@@ -181,7 +181,7 @@
 
 ## 电路图
 <div align="center" width="100%">
-    <img src="Schematic/UEDX80480070E-WB-A%20V1.1%20sch.png" alt="电路图">
+    <img src="image/UEDX80480050E-sch.png" alt="电路图">
 </div>
 
 ## 技术资料
