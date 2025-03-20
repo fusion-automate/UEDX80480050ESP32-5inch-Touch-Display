@@ -185,9 +185,9 @@
 </div>
 
 ## 技术资料
-[产品规格书](information/UEDX80480070E-WB-A%20V2.0%20SPEC.pdf)
+[产品规格书](information/UEDX80480050E-WB-A%20V3.3%20SPEC.pdf)
 
-[显示屏数据手册](information/ALL-UE070WV-RB40-A092A.pdf)
+[显示屏数据手册](information/UE050WV-RB40-L070A.pdf)
 
 [触摸IC英文手册](information/GT911_EN_Datasheet.pdf)
 
