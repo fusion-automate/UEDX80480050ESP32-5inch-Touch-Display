@@ -94,7 +94,7 @@
     * 安装`LVGL`（v8.4.0）库
 4. 打开示例：`ESP32_Display_Panel`-> `examples` -> `arduino` -> `gui` -> `lvgl_v8`
 5. 开发板配置：
-    * 编辑`esp_panel_board_supported_conf.h`
+    * 打开`esp_panel_board_supported_conf.h`文件
     * 启用宏定义: `#define ESP_PANEL_BOARD_DEFAULT_USE_SUPPORTED  (1)`
     * 取消注释屏幕型号定义: `#define BOARD_VIEWE_UEDX80480050E_WB_A`
 6. 工具配置（S3）：
