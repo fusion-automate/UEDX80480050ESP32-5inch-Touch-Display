@@ -2,7 +2,7 @@
 
 <div align="center">
     <img src="image/5inch.jpg" alt="5英寸显示屏">
-    <h1 style="font-size: 18px;">型号: UEDX80480070E-WB-A</h1>
+    <h1 style="font-size: 18px;">型号: UEDX80480050E-WB-A</h1>
 </div>
 
 * **[English Version](./README.md)**
@@ -36,7 +36,7 @@
 
 | 产品                     | 主控芯片     | 闪存   | PSRAM   | 购买链接                   |
 | :------------------------: | :-----------: |:-------: | :---------: | :------------------: |
-| UEDX80480070E-WB-A V1.1   | ESP32S3R8 | 16MB   | 8M（八线SPI） | [VIEWE商城](https://viewedisplay.com/product/esp32-7-inch-800x480-rgb-ips-tft-display-touch-screen-arduino-lvgl-uart/)  |
+| UEDX80480050E-WB-A V1.1   | ESP32S3R8 | 16MB   | 8M（八线SPI） | [VIEWE商城](https://viewedisplay.com/product/esp32-7-inch-800x480-rgb-ips-tft-display-touch-screen-arduino-lvgl-uart/)  |
 
 ## 硬件概述
 
@@ -50,7 +50,7 @@
 - 尺寸: 7英寸IPS屏
 - 分辨率: 800x480px
 - 屏幕类型: IPS
-- 驱动芯片: EK9716BD3+EK73002AB2
+- 驱动芯片: ST7262E43-G4
 - 兼容库: ESP32_Display_Panel
 - 总线协议: RGB
 - 详细资料：[屏幕数据手册](information/UE050WV-RB40-L070A.pdf)
@@ -96,7 +96,7 @@
 5. 开发板配置：
     * 编辑`esp_panel_board_supported_conf.h`
     * 启用宏定义: `#define ESP_PANEL_BOARD_DEFAULT_USE_SUPPORTED  (1)`
-    * 取消注释屏幕型号定义: `#define BOARD_VIEWE_UEDX80480070E_WB_A`
+    * 取消注释屏幕型号定义: `#define BOARD_VIEWE_UEDX80480050E_WB_A`
 6. 工具配置（S3）：
 
     | 配置项                            | 值                                   |
