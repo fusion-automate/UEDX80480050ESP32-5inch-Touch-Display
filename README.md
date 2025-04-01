@@ -185,7 +185,7 @@ Note: The model name is determined by the screen resolution and size
 
 ## Schematic
 <p align="center" width="100%">
-    <img src="https://image/5.0.png" alt="example">
+    <img src="https://github.com/VIEWESMART/UEDX80480050ESP32-5inch-Touch-Display/blob/main/Schematic/5.0.png" alt="example">
 </p>
 
 ## Information
