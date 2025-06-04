@@ -130,7 +130,7 @@ Note: The model name is determined by the screen resolution and size
 | :------------------: | :------------------:|
 | DE         | IO40       |
 | VS         | IO41       |
-| HS         | IO439       |
+| HS         | IO39       |
 | PCLK       | IO42       |
 |   R0       |  IO45   |
 |   R1       |  IO48   |
@@ -148,7 +148,6 @@ Note: The model name is determined by the screen resolution and size
 |   B2       |  IO46   |
 |   B3       |  IO9   |
 |   B4       |  IO1   |
-| RST        | IO39       |
 | BACKLIGHT  | IO2       |
 
 | Touch Chip Pin  | ESP32S3 Pin|
@@ -170,10 +169,10 @@ Note: The model name is determined by the screen resolution and size
 
 | SD Card Pin  | ESP32S3 Pin|
 | :------------------: | :------------------:|
-| D1         | IO18       |
-| D2         | IO15       |
-| MOSI        | IO17       |
-| MISO         | IO16       |
+| CS         | IO10       |
+| CLK        | IO12       |
+| MOSI       | IO11       |
+| MISO       | IO13       |
 
 | UART/RS485 Pin  | ESP32S3 Pin|
 | :------------------: | :------------------:|
@@ -186,7 +185,7 @@ Note: The model name is determined by the screen resolution and size
 
 ## Schematic
 <p align="center" width="100%">
-    <img src="https://image/UEDX80480050E-sch.png" alt="example">
+    <img src="https://github.com/VIEWESMART/UEDX80480050ESP32-5inch-Touch-Display/blob/main/Schematic/5.0.png" alt="example">
 </p>
 
 ## Information
