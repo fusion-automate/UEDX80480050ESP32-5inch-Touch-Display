@@ -157,11 +157,6 @@ Note: The model name is determined by the screen resolution and size
 | SDA         | IO19 |
 | SCL         | IO20 |
 
-| USB (CH340C) Pin  | ESP32S3 Pin|
-| :------------------: | :------------------:|
-| D+(USB-DP)    | IO20       |
-| D-(USB-DN)    | IO19       |
-
 | button Pin  | ESP32S3 Pin|
 | :------------------: | :------------------:|
 |   boot    | IO0       |
