@@ -82,7 +82,7 @@ Note: The model name is determined by the screen resolution and size
 | `[ESP-IDF]` | `[V5.1/5.2/5.3]` |
 | `[Arduino IDE]` | `[esp32 >=v3.0.7]` | 
 | `[Platformio IDE]` |  |
-### ESP-IDF Framework ([Novice tutorial]())
+### ESP-IDF Framework ([Novice tutorial](https://github.com/VIEWESMART/VIEWE-Tutorial/blob/main/esp-idf/esp-idf_Beginner_Tutorial.md))
 - Supported Versions: v5.1/5.2/5.3
 - Download the example code from the repository and compile/run it directly.
 - Repository Address: [examples](examples/esp_idf)
