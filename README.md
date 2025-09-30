@@ -110,11 +110,12 @@ Note: The model name is determined by the screen resolution and size
 
 3. **Install Required Libraries**
    
-    | Component               | Version  |
+    | Libraries               | Version  |
     |------------------------|----------|
-    | ESP32 Board            | V3.0.1   |
     | ESP32 Display Panel    | V1.0.3   |
-    | LVGL Graphics Library  | V8.0.4   |
+    | ESP32 IO Expander      | V1.0.1   |
+    | esp-lib-utils          | V0.1.2   |
+    | LVGL Graphics Library  | V8.4.0   |
    
   `ESP32_Display_Panel` and its dependencies are available in Arduino Library Manager. Install online:
 
