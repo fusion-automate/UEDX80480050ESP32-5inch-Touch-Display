@@ -184,8 +184,8 @@ Note: The model name is determined by the screen resolution and size
     | JTAG Adapter                            | Disabled                           |
     | Arduino Runs On                         | Core 1                             |
     | USB Firmware MSC On Boot                | Disabled                           |
-    | Partition Scheme                        | *16MB Flash (3MB APP / 9.9MB FATFS)* |
-    | PSRAM                                   | *OPI PSRAM*                        |
+    | Partition Scheme                        | $${\color{red}16MB Flash (3MB APP / 9.9MB FATFS)}$$ |
+    | PSRAM                                   | $${\color{red}OPI PSRAM}$$         |
     | Upload Mode                             | UART0 / Hardware CDC               |
     | Upload Speed                            | 921600                             |
     | USB Mode                                | Hardware CDC and JTAG              |
