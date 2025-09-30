@@ -180,7 +180,7 @@ Note: The model name is determined by the screen resolution and size
     | Erase All Flash Before Sketch Upload    | Disabled                           |
     | Events Run On                           | Core 1                             |
     | Flash Mode                              | QIO 80MHz                          |
-    | Flash Size                              | *16MB (128Mb)*                     |
+    | Flash Size                              | $${\color{red}16MB (128Mb)}$$      |
     | JTAG Adapter                            | Disabled                           |
     | Arduino Runs On                         | Core 1                             |
     | USB Firmware MSC On Boot                | Disabled                           |
